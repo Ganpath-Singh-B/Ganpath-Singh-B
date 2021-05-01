@@ -1,1 +1,1 @@
-# Ganpath_Singh-B
+# Ganpath-Singh-B
