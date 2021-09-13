@@ -1,6 +1,5 @@
 - 🌱 I’m currently learning **Google cloud and Mobile Application Devlopment**
 * :pushpin: I'm currently studying BE Computer Science
-- 📫 How to reach me **ganpathsingh288@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
