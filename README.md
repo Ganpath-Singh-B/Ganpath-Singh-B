@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganpath Singh B</h1>
-<h3 align="center">I’m a Self-motivated & passionate to learn the latest technologies. Seeking a position with an organization where I can contribute my skills for organization's success</h3>
+<h3 align="center">I’m a Self-motivated & passionate to learn the latest technologies. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganpath-singh-b&label=Profile%20views&color=0e75b6&style=flat" alt="ganpath-singh-b" /> </p>
 
