@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganpath-singh-b" alt="ganpath-singh-b" /></a> </p>
 
-- 🌱 I’m currently learning **Android development and cloud computing**
+- 🌱 I’m currently learning **Blockchain and Android development**
 
 - 👨‍💻 My portfolio website at [https://ganpath-singh-b.github.io/](https://ganpath-singh-b.github.io/)
 
