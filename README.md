@@ -14,7 +14,7 @@ I'm a technologist who enjoys creating products I have worked with the innovatio
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ganpathsinghb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpathsinghb/) 
 
 
 ## 📊 GitHub Stats
